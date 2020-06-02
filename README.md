@@ -6,7 +6,7 @@ CLI Client for Con Cruise API.
 
 ## Requirements
 
-Make sure the API is running in a a separate terminal.
+Make sure the API is running in a separate terminal.
 
 ### API Setup
 
